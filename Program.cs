@@ -8,7 +8,7 @@ using ConsoleTables;
 
 namespace ApiClient
 {
-    class Program
+    public class Program
     {
         static async Task Main(string[] args)
         {

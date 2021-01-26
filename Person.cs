@@ -2,7 +2,7 @@ using System.Text.Json.Serialization;
 
 namespace ApiClient
 {
-    class Person
+    public class Person
     {
         [JsonPropertyName("name")]
         public string Name { get; set; }
